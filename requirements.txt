@@ -1,7 +1,8 @@
 streamlit
 spacy
-bionlp
-plotly
-biopython
 pandas
 matplotlib
+biopython
+plotly
+git+https://github.com/librairy/bio-ner.git#egg=bionlp&subdirectory=bionlp
+

@@ -1,0 +1,7 @@
+streamlit
+spacy
+bionlp
+plotly
+biopython
+pandas
+matplotlib
